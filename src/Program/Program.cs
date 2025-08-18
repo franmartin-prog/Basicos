@@ -18,4 +18,4 @@ public class Substraction
         {
             return (double)a / b;
         }
-    }
+    }git conf
